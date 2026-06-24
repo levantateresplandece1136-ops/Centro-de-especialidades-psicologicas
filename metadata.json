@@ -1,0 +1,6 @@
+{
+  "name": "Centro de Especialidades Psicológicas",
+  "description": "Sitio web del Centro de Especialidades Psicológicas en Celaya, Guanajuato. Especialistas en Terapia Cognitivo Conductual y Terapia Contextual de Tercera Generación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
